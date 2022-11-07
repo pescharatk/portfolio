@@ -37,9 +37,9 @@
   <header id="header">
     <div class="container">
 
-      <h1><a href="index.html">Pescharat Kewrodphai</a></h1>
+      <h1><a href="index.php">Pescharat Kewrodphai</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="mr-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
+      <!-- <a href="index.php" class="mr-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
       <h2>I'm <span>Web Developer</span></h2>
 
       <nav id="navbar" class="navbar">
@@ -198,7 +198,7 @@
             <div class="portfolio-info">
               <h4>Website Channakorn Engineering</h4>
               <div class="portfolio-links">
-                <a href="portfolio-detail-1.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                <a href="portfolio-detail-1.php" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -210,7 +210,7 @@
             <div class="portfolio-info">
               <h4>Website CIS System</h4>
               <div class="portfolio-links">
-                <a href="portfolio-detail-2.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                <a href="portfolio-detail-2.php" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -222,7 +222,7 @@
             <div class="portfolio-info">
               <h4>Website AMS System</h4>
               <div class="portfolio-links">
-                <a href="portfolio-detail-3.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                <a href="portfolio-detail-3.php" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
